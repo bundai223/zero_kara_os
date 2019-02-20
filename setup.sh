@@ -1,3 +1,3 @@
 #!/bin/bash
 
-yay -S nasm bochs virtualbox
+yay -S nasm bochs virtualbox dosfstools
